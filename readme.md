@@ -1,7 +1,7 @@
 # A repository containing e-books and ressources about Data Analysis
 
 
-## Bayesian Statistics 
+## Time series Analysis
 
 
 [Statistical Rethinking](https://github.com/JRigh/Books-of-Statistics/blob/1e31d0839f52ab79b1a78e1f44752edebf127c5f/Bayesian%20Statistics/Statistical%20Rethinking.pdf)
