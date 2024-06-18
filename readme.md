@@ -5,7 +5,7 @@
 
 [Applied Survival analysis using R](https://github.com/JRigh/Books-of-Statistics-public/blob/main/Survival%20Analysis/survival-analysis-book.pdf)
 
-[Survival analysis: A Self-Learning Text](Survival Analysis/survival-analysis-self-learning-book.pdf)
+[Survival analysis: A Self-Learning Text](https://github.com/JRigh/Books-of-Statistics-public/blob/434fddcc0dd942ff42492d05185ba1ab2c201322/Survival%20Analysis/survival-analysis-self-learning-book.pdf)
 
 ## Time series Analysis
 
