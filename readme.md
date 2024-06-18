@@ -3,7 +3,9 @@
 
 ## Survival Analysis
 
-[Applied Survival analysis ysing R](https://github.com/JRigh/Books-of-Statistics-public/blob/main/Survival%20Analysis/survival-analysis-book.pdf)
+[Applied Survival analysis using R](https://github.com/JRigh/Books-of-Statistics-public/blob/main/Survival%20Analysis/survival-analysis-book.pdf)
+
+[Survival analysis: A Self-Learning Text](https://github.com/JRigh/Books-of-Statistics-public/blob/main/Survival%20Analysis/survival-analysis-book.pdf)
 
 ## Time series Analysis
 
