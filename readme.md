@@ -4,7 +4,7 @@
 ## Bayesian Analysis 
 
 
-[Statisticsl Rethinking](Bayesian Analysis/Statistical Rethinking.pdf)
+[Statisticsl Rethinking](https://github.com/JRigh/Books-of-Statistics-public/blob/6f5fff9524cc96bd9f4e0c898c530ce58edfe94c/Bayesian%20Analysis/Statistical%20Rethinking.pdf)
 
 
 ## Survival Analysis
