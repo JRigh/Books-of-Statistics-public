@@ -8,7 +8,7 @@
 
 ## Financial Engineering 
 
-[Statistics and Data Analysis for Financial Engineering](Financial Engineering/Financial engineering.pdf)
+[Statistics and Data Analysis for Financial Engineering](https://github.com/JRigh/Books-of-Statistics-public/blob/ef8bdd59412ae5cc178068c61cde54554d4deaf5/Financial%20Engineering/Financial%20engineering.pdf)
 
 ## Survival Analysis
 
