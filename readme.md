@@ -10,6 +10,8 @@
 
 [Statistics and Data Analysis for Financial Engineering](https://github.com/JRigh/Books-of-Statistics-public/blob/ef8bdd59412ae5cc178068c61cde54554d4deaf5/Financial%20Engineering/Financial%20engineering.pdf)
 
+[Econometrics for Finance](https://github.com/JRigh/Books-of-Statistics-public/blob/main/Financial%20Engineering/3%20Brooks_Introductory%20Econometrics%20for%20Finance%20(2nd%20edition).pdf)
+
 ## Survival Analysis
 
 [Applied Survival analysis using R](https://github.com/JRigh/Books-of-Statistics-public/blob/main/Survival%20Analysis/survival-analysis-book.pdf)
